@@ -1,6 +1,9 @@
-<p align="center">
-  <img width="800" height="400" src="https://i.imgur.com/0Z8YQ9v.gif">
-</p>
+<h1 align="center">
+  <details open>
+    <summary style="cursor: pointer;">✨ Click to see my name ✨</summary>
+    <p align="center" style="font-size: 45px; font-weight: bold;">Ilham MOUTAKIF</p>
+  </details>
+</h1>
 
 <h2 align="center">Hey there! I'm Ilham Mouatakif 👋💻</h2>
 
