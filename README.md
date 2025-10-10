@@ -57,7 +57,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 <!-- 🖼️ Bottom Logo -->
 <p align="center">
-  <img width="300" src="logo ilham-mouatakif.gif" alt="Ilham Mouatakif Logo">
+  <img src="logo mouatakif-ilham.gif" alt="Ilham Mouatakif Logo">
 </p>
 
 ---
