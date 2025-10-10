@@ -1,6 +1,6 @@
 <!-- 🌸 Top GIF Banner -->
 <p align="center">
-  <img   src="ilham Logo.gif" alt="Ilham Mouatakif Logo Animation">
+  <img   src="logo ilham mouatakif.png" alt="Ilham Mouatakif Logo Animation">
 </p>
 
 <h2 align="center" style="font-size: 40px;">🌸 Ilham Mouatakif 🌸</h2>
@@ -57,7 +57,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 <!-- 🖼️ Bottom Logo -->
 <p align="center">
-  <img width="300" src="logo ilham-mouatakif.png" alt="Ilham Mouatakif Logo">
+  <img width="300" src="ilham-mouatakif Logo.gif" alt="Ilham Mouatakif Logo">
 </p>
 
 ---
