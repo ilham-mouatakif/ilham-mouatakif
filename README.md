@@ -1,6 +1,6 @@
 <!-- 🌸 Top GIF Banner -->
 <p align="center">
-  <img width="800" height="400" src="ilham-mouatakif Logo.gif" alt="Ilham Mouatakif Logo Animation">
+  <img src="ilham-mouatakif Logo.gif" alt="Ilham Mouatakif Logo Animation">
 </p>
 
 <h2 align="center" style="font-size: 40px;">🌸 Ilham Mouatakif 🌸</h2>
