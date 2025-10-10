@@ -47,7 +47,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IlhamMoutakif&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ilham-moutakif&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
