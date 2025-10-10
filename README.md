@@ -3,19 +3,21 @@
   <img src="ilham-mouatakif Logo.png" alt="Ilham Mouatakif Logo Animation">
 </p>
 
-<!-- 🌈 Gradient-Colored Name -->
-<h2 align="center" style="font-size: 40px; font-weight: bold;">
-  <span style="color:#ff66cc;">🌸 Ilham</span>
-  <span style="color:#9966ff;"> Mouatakif 🌸</span>
+<!-- 🌸 Name Section -->
+<h2 align="center">
+  <font color="#ff66cc">🌸 Ilham</font> 
+  <font color="#9966ff">Mouatakif 🌸</font>
 </h2>
 
-<!-- 🌸 Bio Section with visible colors -->
-<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;">
-  I'm a passionate <b><span style="color:#ff66cc;">Web Developer</span></b> based in <span style="color:#00ccff;">Marrakech, Morocco 🇲🇦</span>.<br>
-  Currently studying <b><span style="color:#9966ff;">Web Development</span></b> at <b><span style="color:#ff99cc;">ESET Marrakech</span></b> and enhancing my skills in both 
-  <b><span style="color:#00ccff;">Front-End</span></b> and <b><span style="color:#9966ff;">Back-End</span></b> development through 
-  <b><span style="color:#ff66cc;">ALX Africa 🚀</span></b>.<br>
-  I love building <span style="color:#66ccff;">modern, user-friendly websites</span> and exploring new technologies that make the web more interactive and accessible.
+<!-- 🌸 Bio Section -->
+<p align="center">
+  I'm a passionate <b><font color="#ff66cc">Web Developer</font></b> based in <font color="#00ccff">Marrakech, Morocco 🇲🇦</font>.<br>
+  Currently studying <b><font color="#9966ff">Web Development</font></b> at 
+  <b><font color="#ff99cc">ESET Marrakech</font></b> and enhancing my skills in both 
+  <b><font color="#00ccff">Front-End</font></b> and 
+  <b><font color="#9966ff">Back-End</font></b> development through 
+  <b><font color="#ff66cc">ALX Africa 🚀</font></b>.<br>
+  I love building <font color="#66ccff">modern, user-friendly websites</font> and exploring new technologies that make the web more interactive and accessible.
 </p>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
