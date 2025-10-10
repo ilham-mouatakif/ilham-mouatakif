@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+  <img width="800" height="400" src="https://i.imgur.com/0Z8YQ9v.gif">
 </p>
 
 <h2 align="center">Hey there! I'm Ilham Mouatakif 👋💻</h2>
