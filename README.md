@@ -1,11 +1,9 @@
-<h1 align="center">
-  <details open>
-    <summary style="cursor: pointer;">✨ Click to see my name ✨</summary>
-    <p align="center" style="font-size: 45px; font-weight: bold;">Ilham MOUTAKIF</p>
-  </details>
-</h1>
+<!-- 🌸 Top GIF Banner -->
+<p align="center">
+  <img width="800" height="400" src="ilham-mouatakif Logo.gif" alt="Ilham Mouatakif Logo Animation">
+</p>
 
-<h2 align="center">Hey there! I'm Ilham Mouatakif 👋💻</h2>
+<h2 align="center" style="font-size: 40px;">🌸 Ilham Mouatakif 🌸</h2>
 
 <p align="center">
 I'm a passionate <b>Web Developer</b> based in Marrakech, Morocco 🇲🇦.<br>
@@ -18,12 +16,14 @@ When I’m not coding, I enjoy exploring UI/UX design trends 🎨, learning new 
 I believe in continuous learning and creating projects that make an impact ✨.
 </p>
 
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ilham-mouatakif"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://github.com/IlhamMoutakif"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
   <a href="https://sites.google.com/view/ilham-mouatakif-site/home"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25></a>
 </p>
 
+<!-- 💡 Skills -->
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End%20Development-orange">
   <img src="https://img.shields.io/badge/Back--End%20Development-blue">
@@ -34,6 +34,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 <hr>
 
+<!-- ⚙️ Tech Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,6 +45,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
   <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<!-- 📊 GitHub Stats -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IlhamMoutakif&show_icons=true&theme=radical" />
 </p>
@@ -52,9 +54,15 @@ I believe in continuous learning and creating projects that make an impact ✨.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamMoutakif&theme=radical" />
 </p>
 
+<!-- 🖼️ Bottom Logo -->
+<p align="center">
+  <img width="300" src="logo ilham-mouatakif.png" alt="Ilham Mouatakif Logo">
+</p>
+
 ---
 
 <p align="center">
 ✨ “Code is like art — every line tells a story.” ✨
 </p>
+
 
