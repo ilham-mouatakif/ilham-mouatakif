@@ -8,7 +8,6 @@
 🌸 Ilham Mouatakif 🌸
 </h2>
 
-<!-- 🌸 Bio Section -->
 <p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8; 
 background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff); 
 -webkit-background-clip: text; color: transparent; font-weight: 500;">
@@ -16,6 +15,14 @@ I'm a passionate <b>Web Developer</b> based in Marrakech, Morocco 🇲🇦.<br>
 Currently studying <b>Web Development</b> at <b>ESET Marrakech</b> and enhancing my skills in both <b>Front-End</b> and <b>Back-End</b> development through <b>ALX Africa</b> 🚀.<br>
 I love building modern, user-friendly websites and exploring new technologies that make the web more interactive and accessible.
 </p>
+
+<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
+background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff);
+-webkit-background-clip: text; color: transparent; font-weight: 500;">
+When I’m not coding, I enjoy exploring UI/UX design trends 🎨, learning new frameworks ⚙️, or watching tech talks ☕.<br>
+I believe in continuous learning and creating projects that make an impact ✨.
+</p>
+
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
 background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff);
