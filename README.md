@@ -3,17 +3,19 @@
   <img src="ilham-mouatakif Logo.png" alt="Ilham Mouatakif Logo Animation">
 </p>
 
-<!-- 🌈 Name with Gradient -->
-<h2 align="center" style="font-size: 40px; background: linear-gradient(90deg, #ff66cc, #9966ff, #00ccff); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-🌸 Ilham Mouatakif 🌸
+<!-- 🌈 Gradient-Colored Name -->
+<h2 align="center" style="font-size: 40px; font-weight: bold;">
+  <span style="color:#ff66cc;">🌸 Ilham</span>
+  <span style="color:#9966ff;"> Mouatakif 🌸</span>
 </h2>
 
-<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8; 
-background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff); 
--webkit-background-clip: text; color: transparent; font-weight: 500;">
-I'm a passionate <b>Web Developer</b> based in Marrakech, Morocco 🇲🇦.<br>
-Currently studying <b>Web Development</b> at <b>ESET Marrakech</b> and enhancing my skills in both <b>Front-End</b> and <b>Back-End</b> development through <b>ALX Africa</b> 🚀.<br>
-I love building modern, user-friendly websites and exploring new technologies that make the web more interactive and accessible.
+<!-- 🌸 Bio Section with visible colors -->
+<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;">
+  I'm a passionate <b><span style="color:#ff66cc;">Web Developer</span></b> based in <span style="color:#00ccff;">Marrakech, Morocco 🇲🇦</span>.<br>
+  Currently studying <b><span style="color:#9966ff;">Web Development</span></b> at <b><span style="color:#ff99cc;">ESET Marrakech</span></b> and enhancing my skills in both 
+  <b><span style="color:#00ccff;">Front-End</span></b> and <b><span style="color:#9966ff;">Back-End</span></b> development through 
+  <b><span style="color:#ff66cc;">ALX Africa 🚀</span></b>.<br>
+  I love building <span style="color:#66ccff;">modern, user-friendly websites</span> and exploring new technologies that make the web more interactive and accessible.
 </p>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
