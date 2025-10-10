@@ -1,36 +1,17 @@
 <!-- 🌸 Top GIF Banner -->
 <p align="center">
-  <img src="ilham-mouatakif Logo.png" alt="Ilham Mouatakif Logo Animation">
+  <img   src="ilham-mouatakif Logo.png" alt="Ilham Mouatakif Logo Animation">
 </p>
 
-<!-- 🌸 Name Section -->
-<h2 align="center">
-  <font color="#ff66cc">🌸 Ilham</font> 
-  <font color="#9966ff">Mouatakif 🌸</font>
-</h2>
+<h2 align="center" style="font-size: 40px;">🌸 Ilham Mouatakif 🌸</h2>
 
-<!-- 🌸 Bio Section -->
 <p align="center">
-  I'm a passionate <b><font color="#ff66cc">Web Developer</font></b> based in <font color="#00ccff">Marrakech, Morocco 🇲🇦</font>.<br>
-  Currently studying <b><font color="#9966ff">Web Development</font></b> at 
-  <b><font color="#ff99cc">ESET Marrakech</font></b> and enhancing my skills in both 
-  <b><font color="#00ccff">Front-End</font></b> and 
-  <b><font color="#9966ff">Back-End</font></b> development through 
-  <b><font color="#ff66cc">ALX Africa 🚀</font></b>.<br>
-  I love building <font color="#66ccff">modern, user-friendly websites</font> and exploring new technologies that make the web more interactive and accessible.
+I'm a passionate <b>Web Developer</b> based in Marrakech, Morocco 🇲🇦.<br>
+Currently studying <b>Web Development</b> at <b>ESET Marrakech</b> and enhancing my skills in both <b>Front-End</b> and <b>Back-End</b> development through <b>ALX Africa</b> 🚀.<br>
+I love building modern, user-friendly websites and exploring new technologies that make the web more interactive and accessible.
 </p>
 
-<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
-background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff);
--webkit-background-clip: text; color: transparent; font-weight: 500;">
-When I’m not coding, I enjoy exploring UI/UX design trends 🎨, learning new frameworks ⚙️, or watching tech talks ☕.<br>
-I believe in continuous learning and creating projects that make an impact ✨.
-</p>
-
-
-<p align="center" style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.8;
-background: linear-gradient(90deg, #ff99cc, #cc99ff, #66ccff);
--webkit-background-clip: text; color: transparent; font-weight: 500;">
+<p align="center">
 When I’m not coding, I enjoy exploring UI/UX design trends 🎨, learning new frameworks ⚙️, or watching tech talks ☕.<br>
 I believe in continuous learning and creating projects that make an impact ✨.
 </p>
@@ -38,7 +19,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 <!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ilham-mouatakif"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://github.com/Ilham-Mouatakif"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://github.com/IlhamMoutakif"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
   <a href="https://sites.google.com/view/ilham-mouatakif-site/home"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25></a>
 </p>
 
@@ -80,9 +61,10 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 ---
 
-<p align="center" style="background: linear-gradient(90deg, #ff66cc, #9966ff, #00ccff); -webkit-background-clip: text; color: transparent; font-size: 20px; font-weight: bold;">
+<p align="center">
 ✨ “Code is like art — every line tells a story.” ✨
 </p>
+
 
 
 
