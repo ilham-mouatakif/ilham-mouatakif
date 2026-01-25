@@ -61,7 +61,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 
 ---
 
-<p align="center">
+<p align="center" >
 ✨ “Code is like art — every line tells a story.” ✨
 </p>
 
