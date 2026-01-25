@@ -51,7 +51,7 @@ I believe in continuous learning and creating projects that make an impact ✨.
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilham-Mouatakif&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilham-mouatakif&theme=radical" />
 </p>
 
 <!-- 🖼️ Bottom Logo -->
